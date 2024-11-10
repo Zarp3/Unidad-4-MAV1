@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,59): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,59): warning C4244:         with
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,59): warning C4244:         [
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,59): warning C4244:             T=unsigned int
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,59): warning C4244:         ]
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,40): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,40): warning C4244:         with
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,40): warning C4244:         [
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,40): warning C4244:             T=unsigned int
+C:\Users\minic\source\repos\Unidad 4\Source.cpp(19,40): warning C4244:         ]
+  Unidad 4.vcxproj -> C:\Users\minic\source\repos\Unidad 4\Debug\Unidad 4.exe
